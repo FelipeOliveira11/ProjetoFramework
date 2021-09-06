@@ -1,0 +1,11 @@
+body{
+background-image: url("/img/star-wars-duelo-jedi-wallpaper-13599.jpg");
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-left: 550px;
+    display: flex;
+}
