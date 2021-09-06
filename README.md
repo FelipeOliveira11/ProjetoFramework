@@ -7,5 +7,8 @@ Nesse projeto contém:
 - Tabela Albuns com os dados da API fornecida
 - Tabela Todos com os dados da API fornecida
 
+# CASO OCORRA ALGUM ERRO DE NÃO ENCONTRAR O ARQUIVO:
+- Basta abrir pelo VS CODE utilizando a extensão live server
+
 
 
